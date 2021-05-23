@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Sid&#39;s Insights</title>
-    <link>http://example.org/categories/</link>
+    <link>https://sidtheone.github.io/sidsinsightsBlogPublic/categories/</link>
     <description>Recent content in Categories on Sid&#39;s Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>You</copyright><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>You</copyright><atom:link href="https://sidtheone.github.io/sidsinsightsBlogPublic/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sid&#39;s Insights</title>
-    <link>http://example.org/</link>
+    <link>https://sidtheone.github.io/sidsinsightsBlogPublic/</link>
     <description>Recent content on Sid&#39;s Insights</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>You</copyright>
-    <lastBuildDate>Sun, 16 May 2021 20:05:18 +0000</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 20:05:18 +0000</lastBuildDate><atom:link href="https://sidtheone.github.io/sidsinsightsBlogPublic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://sidtheone.github.io/sidsinsightsBlogPublic/about/</link>
       <pubDate>Mon, 17 May 2021 03:27:07 +0000</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://sidtheone.github.io/sidsinsightsBlogPublic/about/</guid>
       <description>Sidharth Arora Reach me at sidsinsights[@]protonmail.com</description>
     </item>
     
     <item>
       <title>Helloworld</title>
-      <link>http://example.org/posts/helloworld/</link>
+      <link>https://sidtheone.github.io/sidsinsightsBlogPublic/posts/helloworld/</link>
       <pubDate>Sun, 16 May 2021 20:05:18 +0000</pubDate>
       
-      <guid>http://example.org/posts/helloworld/</guid>
+      <guid>https://sidtheone.github.io/sidsinsightsBlogPublic/posts/helloworld/</guid>
       <description>Hello World!!!</description>
     </item>
     
