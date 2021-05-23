@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sid&#39;s Insights</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Sid&#39;s Insights</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>You</copyright>
+    <lastBuildDate>Sun, 16 May 2021 20:05:18 +0000</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Helloworld</title>
+      <link>http://example.org/posts/helloworld/</link>
+      <pubDate>Sun, 16 May 2021 20:05:18 +0000</pubDate>
+      
+      <guid>http://example.org/posts/helloworld/</guid>
+      <description>Hello World!!!</description>
+    </item>
+    
+  </channel>
+</rss>
